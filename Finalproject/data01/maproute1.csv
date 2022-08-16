@@ -1,0 +1,321 @@
+,End Date,EndStation Id,EndStation Name,Start Date,StartStation Id,StartStation Name,Slat,Slon,Elat,Elon
+0,01/01/2021 00:08,641,"Archbishop's Park, Waterloo",21-01-01 00:00,815,"Lambeth Palace Road, Waterloo",51.5000892,-0.116628701,51.49824168,-0.117495865
+1,01/01/2021 00:42,449,"Shadwell Station, Shadwell",21-01-01 00:00,445,"Cheshire Street, Bethnal Green",51.52388,-0.065076,51.511088,-0.057159
+2,01/01/2021 00:16,442,"Walmer Road, Avondale",21-01-01 00:01,37,"Penywern Road, Earl's Court",51.49159394,-0.192369256,51.510101,-0.211358
+3,01/01/2021 00:38,610,"Danvers Street, West Chelsea",21-01-01 00:01,610,"Danvers Street, West Chelsea",51.48256792,-0.172078187,51.48256792,-0.172078187
+4,01/01/2021 00:05,108,"Abbey Orchard Street, Westminster",21-01-01 00:01,360,"Howick Place, Westminster",51.49675303,-0.138733562,51.49812559,-0.132102166
+5,01/01/2021 00:05,108,"Abbey Orchard Street, Westminster",21-01-01 00:01,360,"Howick Place, Westminster",51.49675303,-0.138733562,51.49812559,-0.132102166
+6,01/01/2021 00:38,610,"Danvers Street, West Chelsea",21-01-01 00:02,610,"Danvers Street, West Chelsea",51.48256792,-0.172078187,51.48256792,-0.172078187
+7,01/01/2021 00:38,610,"Danvers Street, West Chelsea",21-01-01 00:03,610,"Danvers Street, West Chelsea",51.48256792,-0.172078187,51.48256792,-0.172078187
+8,01/01/2021 03:44,309,"Embankment (Savoy), Strand",21-01-01 00:03,388,"Southampton Street, Strand",51.51070161,-0.121723604,51.50963123,-0.119047563
+9,01/01/2021 01:55,85,"Tanner Street, Bermondsey",21-01-01 00:04,388,"Southampton Street, Strand",51.51070161,-0.121723604,51.50064702,-0.078600401
+10,01/01/2021 00:05,433,"Wren Street, Holborn",21-01-01 00:04,204,"Margery Street, Clerkenwell",51.52659961,-0.112432615,51.524564,-0.116279
+11,01/01/2021 00:27,142,"West Cromwell Road, Earl's Court",21-01-01 00:04,142,"West Cromwell Road, Earl's Court",51.49372451,-0.198286569,51.49372451,-0.198286569
+18,01/01/2021 00:16,64,"William IV Street, Strand",21-01-01 00:05,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50946212,-0.124749274
+17,01/01/2021 00:17,64,"William IV Street, Strand",21-01-01 00:05,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50946212,-0.124749274
+16,01/01/2021 00:17,64,"William IV Street, Strand",21-01-01 00:05,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50946212,-0.124749274
+19,01/01/2021 00:27,142,"West Cromwell Road, Earl's Court",21-01-01 00:05,142,"West Cromwell Road, Earl's Court",51.49372451,-0.198286569,51.49372451,-0.198286569
+14,01/01/2021 00:24,181,"Belgrave Square, Belgravia",21-01-01 00:05,818,"Westminster Pier, Westminster",51.501513,-0.12382322,51.49941247,-0.152317537
+13,01/01/2021 00:24,181,"Belgrave Square, Belgravia",21-01-01 00:05,818,"Westminster Pier, Westminster",51.501513,-0.12382322,51.49941247,-0.152317537
+12,01/01/2021 00:20,483,"Albert Gardens, Stepney",21-01-01 00:05,556,"Heron Quays DLR, Canary Wharf",51.502661,-0.021596,51.51328,-0.047784
+15,01/01/2021 00:17,64,"William IV Street, Strand",21-01-01 00:05,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50946212,-0.124749274
+20,01/01/2021 00:28,450,"Jubilee Street, Stepney",21-01-01 00:06,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.515975,-0.053177
+21,01/01/2021 03:44,309,"Embankment (Savoy), Strand",21-01-01 00:06,388,"Southampton Street, Strand",51.51070161,-0.121723604,51.50963123,-0.119047563
+22,01/01/2021 00:23,842,"Temple Gardens, Temple",21-01-01 00:06,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.510981,-0.10832249
+23,01/01/2021 00:23,842,"Temple Gardens, Temple",21-01-01 00:06,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.510981,-0.10832249
+24,01/01/2021 00:23,842,"Temple Gardens, Temple",21-01-01 00:06,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.510981,-0.10832249
+25,01/01/2021 00:17,115,"Braham Street, Aldgate",21-01-01 00:06,278,"Tooley Street, Bermondsey",51.5034938,-0.07962099,51.51423368,-0.073537654
+29,01/01/2021 00:24,842,"Temple Gardens, Temple",21-01-01 00:07,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.510981,-0.10832249
+28,01/01/2021 00:14,269,"Empire Square, The Borough",21-01-01 00:07,230,"Poured Lines, Bankside",51.50669284,-0.103137426,51.50082346,-0.089740764
+27,01/01/2021 00:35,97,"Gloucester Road (North), Kensington",21-01-01 00:07,762,"Storey's Gate, Westminster",51.50070305,-0.129698963,51.49792478,-0.183834706
+26,01/01/2021 00:36,97,"Gloucester Road (North), Kensington",21-01-01 00:07,762,"Storey's Gate, Westminster",51.50070305,-0.129698963,51.49792478,-0.183834706
+30,01/01/2021 00:33,668,"Ravenscourt Park Station, Hammersmith",21-01-01 00:08,668,"Ravenscourt Park Station, Hammersmith",51.49422354,-0.236769936,51.49422354,-0.236769936
+31,01/01/2021 00:33,668,"Ravenscourt Park Station, Hammersmith",21-01-01 00:08,668,"Ravenscourt Park Station, Hammersmith",51.49422354,-0.236769936,51.49422354,-0.236769936
+32,01/01/2021 00:36,130,"Tower Gardens , Tower",21-01-01 00:08,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.50950627,-0.075459482
+33,01/01/2021 00:36,130,"Tower Gardens , Tower",21-01-01 00:08,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.50950627,-0.075459482
+34,01/01/2021 00:33,475,"Lightermans Road, Millwall",21-01-01 00:08,475,"Lightermans Road, Millwall",51.499041,-0.020157,51.499041,-0.020157
+35,01/01/2021 00:33,475,"Lightermans Road, Millwall",21-01-01 00:08,475,"Lightermans Road, Millwall",51.499041,-0.020157,51.499041,-0.020157
+36,01/01/2021 01:40,775,"Little Brook Green, Brook Green",21-01-01 00:08,132,"Bethnal Green Road, Shoreditch",51.52364804,-0.074754872,51.496664,-0.223868
+37,01/01/2021 01:40,775,"Little Brook Green, Brook Green",21-01-01 00:08,132,"Bethnal Green Road, Shoreditch",51.52364804,-0.074754872,51.496664,-0.223868
+42,01/01/2021 00:23,483,"Albert Gardens, Stepney",21-01-01 00:09,763,"Mile End Park Leisure Centre, Mile End",51.52059714,-0.032566533,51.51328,-0.047784
+41,01/01/2021 00:13,842,"Temple Gardens, Temple",21-01-01 00:09,659,"Blackfriars Station, St. Paul's",51.511934,-0.10307894,51.510981,-0.10832249
+38,01/01/2021 00:19,600,"South Lambeth Road, Vauxhall",21-01-01 00:09,815,"Lambeth Palace Road, Waterloo",51.5000892,-0.116628701,51.481747,-0.124642
+39,01/01/2021 00:19,352,"Vauxhall Street, Vauxhall",21-01-01 00:09,815,"Lambeth Palace Road, Waterloo",51.5000892,-0.116628701,51.486965,-0.116625
+40,01/01/2021 00:29,338,"Wellington Street , Strand",21-01-01 00:09,100,"Albert Embankment, Vauxhall",51.49043573,-0.122806861,51.51175646,-0.119643424
+43,01/01/2021 00:37,37,"Penywern Road, Earl's Court",21-01-01 00:10,155,"Lexham Gardens, Kensington",51.49586666,-0.191933711,51.49159394,-0.192369256
+44,01/01/2021 00:38,37,"Penywern Road, Earl's Court",21-01-01 00:10,155,"Lexham Gardens, Kensington",51.49586666,-0.191933711,51.49159394,-0.192369256
+45,01/01/2021 00:30,783,"Monier Road, Hackney Wick",21-01-01 00:10,459,"Gunmakers Lane, Old Ford",51.535179,-0.03338,51.5403115,-0.021630359
+46,01/01/2021 00:30,783,"Monier Road, Hackney Wick",21-01-01 00:10,459,"Gunmakers Lane, Old Ford",51.535179,-0.03338,51.5403115,-0.021630359
+47,01/01/2021 00:27,564,"Somerset House, Strand",21-01-01 00:10,267,"Regency Street, Westminster",51.49206037,-0.132224622,51.509943,-0.117619
+48,01/01/2021 00:27,564,"Somerset House, Strand",21-01-01 00:10,267,"Regency Street, Westminster",51.49206037,-0.132224622,51.509943,-0.117619
+49,01/01/2021 00:24,164,"Cleveland Gardens, Bayswater",21-01-01 00:10,248,"Triangle Car Park, Hyde Park",51.50645179,-0.170279555,51.515607,-0.183118788
+50,01/01/2021 00:24,239,"Warren Street Station, Euston",21-01-01 00:10,514,"Portman Square, Marylebone",51.516204,-0.155525,51.52443845,-0.138019439
+51,01/01/2021 00:22,459,"Gunmakers Lane, Old Ford",21-01-01 00:10,460,"Burdett Road, Mile End",51.516196,-0.029138,51.535179,-0.03338
+52,01/01/2021 00:34,105,"Westbourne Grove, Bayswater",21-01-01 00:10,329,"Prince Albert Road, The Regent's Park",51.53589283,-0.160854428,51.51552971,-0.190240716
+53,01/01/2021 00:22,254,"Chadwell Street, Angel",21-01-01 00:10,659,"Blackfriars Station, St. Paul's",51.511934,-0.10307894,51.53051587,-0.106408455
+54,01/01/2021 00:22,254,"Chadwell Street, Angel",21-01-01 00:10,659,"Blackfriars Station, St. Paul's",51.511934,-0.10307894,51.53051587,-0.106408455
+59,01/01/2021 00:20,270,"Kennington Lane Rail Bridge, Vauxhall",21-01-01 00:11,614,"Bradmead, Battersea Park",51.54119,-0.058826101,51.4863434,-0.122492418
+57,01/01/2021 00:16,203,"West Smithfield Rotunda, Farringdon",21-01-01 00:11,703,"St. Bride Street, Holborn",51.51505991,-0.10534448,51.51821864,-0.100791005
+58,01/01/2021 00:34,105,"Westbourne Grove, Bayswater",21-01-01 00:11,329,"Prince Albert Road, The Regent's Park",51.53589283,-0.160854428,51.51552971,-0.190240716
+55,01/01/2021 00:30,671,"Parsons Green Station, Parsons Green",21-01-01 00:11,596,"Parson's Green , Parson's Green",51.472817,-0.199783,51.475089,-0.201968
+56,01/01/2021 00:39,282,"Royal London Hospital, Whitechapel",21-01-01 00:11,818,"Westminster Pier, Westminster",51.501513,-0.12382322,51.518675,-0.06111
+70,01/01/2021 00:24,732,"Duke Street Hill, London Bridge",21-01-01 00:12,273,"Belvedere Road 1, South Bank",51.50613324,-0.114686385,51.50630441,-0.087262995
+69,01/01/2021 00:34,449,"Shadwell Station, Shadwell",21-01-01 00:12,309,"Embankment (Savoy), Strand",51.50963123,-0.119047563,51.511088,-0.057159
+68,01/01/2021 00:34,449,"Shadwell Station, Shadwell",21-01-01 00:12,309,"Embankment (Savoy), Strand",51.50963123,-0.119047563,51.511088,-0.057159
+66,01/01/2021 01:27,685,"Osiers Road, Wandsworth",21-01-01 00:12,821,"Battersea Power Station, Battersea Park",51.48350749,-0.147714557,51.46067005,-0.198735357
+65,01/01/2021 00:23,392,"Imperial College, Knightsbridge",21-01-01 00:12,158,"Trebovir Road, Earl's Court",51.49085368,-0.196170309,51.49942855,-0.179702476
+67,01/01/2021 00:20,818,"Westminster Pier, Westminster",21-01-01 00:12,229,"Whitehall Place, Strand",51.50654321,-0.123179697,51.501513,-0.12382322
+63,01/01/2021 01:01,83,"Panton Street, West End",21-01-01 00:12,243,"Gloucester Street, Pimlico",51.49096258,-0.139625122,51.50963938,-0.131510949
+62,01/01/2021 05:45,238,"Frampton Street, Paddington",21-01-01 00:12,243,"Gloucester Street, Pimlico",51.49096258,-0.139625122,51.5233534,-0.175116099
+61,01/01/2021 01:02,83,"Panton Street, West End",21-01-01 00:12,243,"Gloucester Street, Pimlico",51.49096258,-0.139625122,51.50963938,-0.131510949
+60,01/01/2021 00:26,534,"Goldsmith's Row, Haggerston",21-01-01 00:12,95,"Aldersgate Street, Barbican",51.5208417,-0.097340162,51.531864,-0.066035
+64,01/01/2021 00:23,392,"Imperial College, Knightsbridge",21-01-01 00:12,158,"Trebovir Road, Earl's Court",51.49085368,-0.196170309,51.49942855,-0.179702476
+79,01/01/2021 00:20,372,"Sardinia Street, Holborn",21-01-01 00:13,23,"Red Lion Square, Holborn",51.51943538,-0.119123345,51.515208,-0.117863
+83,01/01/2021 00:26,130,"Tower Gardens , Tower",21-01-01 00:13,223,"Rodney Road , Walworth",51.49148474,-0.090220911,51.50950627,-0.075459482
+82,01/01/2021 00:17,94,"Bricklayers Arms, Borough",21-01-01 00:13,94,"Bricklayers Arms, Borough",51.49506109,-0.085814489,51.49506109,-0.085814489
+81,01/01/2021 00:38,835,"Farringdon Street, Holborn",21-01-01 00:13,138,"Green Street, Mayfair",51.51227622,-0.157436972,51.516785,-0.10494775
+80,01/01/2021 00:20,372,"Sardinia Street, Holborn",21-01-01 00:13,23,"Red Lion Square, Holborn",51.51943538,-0.119123345,51.515208,-0.117863
+78,01/01/2021 00:19,372,"Sardinia Street, Holborn",21-01-01 00:13,23,"Red Lion Square, Holborn",51.51943538,-0.119123345,51.515208,-0.117863
+77,01/01/2021 00:20,372,"Sardinia Street, Holborn",21-01-01 00:13,23,"Red Lion Square, Holborn",51.51943538,-0.119123345,51.515208,-0.117863
+76,01/01/2021 00:24,164,"Cleveland Gardens, Bayswater",21-01-01 00:13,248,"Triangle Car Park, Hyde Park",51.50645179,-0.170279555,51.515607,-0.183118788
+75,01/01/2021 00:21,78,"Sadlers Sports Centre, Finsbury",21-01-01 00:13,579,"Queen Street 2, Bank",51.511246,-0.093051,51.52486887,-0.099489485
+74,01/01/2021 00:21,78,"Sadlers Sports Centre, Finsbury",21-01-01 00:13,579,"Queen Street 2, Bank",51.511246,-0.093051,51.52486887,-0.099489485
+73,01/01/2021 00:33,428,"Exhibition Road, Knightsbridge",21-01-01 00:13,113,"Gloucester Road (Central), South Kensington",51.49646288,-0.183289032,51.499917,-0.174554
+72,01/01/2021 00:33,428,"Exhibition Road, Knightsbridge",21-01-01 00:13,113,"Gloucester Road (Central), South Kensington",51.49646288,-0.183289032,51.499917,-0.174554
+71,01/01/2021 01:27,685,"Osiers Road, Wandsworth",21-01-01 00:13,821,"Battersea Power Station, Battersea Park",51.48350749,-0.147714557,51.46067005,-0.198735357
+92,01/01/2021 00:59,815,"Lambeth Palace Road, Waterloo",21-01-01 00:14,108,"Abbey Orchard Street, Westminster",51.49812559,-0.132102166,51.5000892,-0.116628701
+91,01/01/2021 00:45,160,"Waterloo Place, St. James's",21-01-01 00:14,83,"Panton Street, West End",51.50963938,-0.131510949,51.50663341,-0.131773845
+90,01/01/2021 00:46,160,"Waterloo Place, St. James's",21-01-01 00:14,83,"Panton Street, West End",51.50963938,-0.131510949,51.50663341,-0.131773845
+89,01/01/2021 00:34,354,"Northumberland Avenue, Strand",21-01-01 00:14,83,"Panton Street, West End",51.50963938,-0.131510949,51.506767,-0.123702
+87,01/01/2021 00:25,138,"Green Street, Mayfair",21-01-01 00:14,99,"Old Quebec Street, Marylebone",51.51457763,-0.158264483,51.51227622,-0.157436972
+86,01/01/2021 00:31,354,"Northumberland Avenue, Strand",21-01-01 00:14,842,"Temple Gardens, Temple",51.510981,-0.10832249,51.506767,-0.123702
+85,01/01/2021 00:26,268,"Belgrave Road, Victoria",21-01-01 00:14,376,"Millbank Tower, Pimlico",51.49188409,-0.125674815,51.49320445,-0.144132875
+84,01/01/2021 00:26,268,"Belgrave Road, Victoria",21-01-01 00:14,376,"Millbank Tower, Pimlico",51.49188409,-0.125674815,51.49320445,-0.144132875
+88,02/01/2021 16:09,195,"Milroy Walk, South Bank",21-01-01 00:14,338,"Wellington Street , Strand",51.51175646,-0.119643424,51.50724437,-0.106237501
+99,01/01/2021 03:54,294,"St. George's Square, Pimlico",21-01-01 00:15,83,"Panton Street, West End",51.50963938,-0.131510949,51.488226,-0.135635511
+102,01/01/2021 00:50,815,"Lambeth Palace Road, Waterloo",21-01-01 00:15,108,"Abbey Orchard Street, Westminster",51.49812559,-0.132102166,51.5000892,-0.116628701
+101,01/01/2021 00:30,136,"Queen Victoria Street, St. Paul's",21-01-01 00:15,126,"Museum of London, Barbican",51.51782144,-0.096496865,51.51196176,-0.097441687
+98,01/01/2021 00:33,428,"Exhibition Road, Knightsbridge",21-01-01 00:15,356,"South Kensington Station, South Kensington",51.494412,-0.173881,51.499917,-0.174554
+100,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:15,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+96,01/01/2021 01:22,571,"Westfield Southern Terrace ,Shepherd's Bush",21-01-01 00:15,762,"Storey's Gate, Westminster",51.50070305,-0.129698963,51.506256,-0.218337
+95,01/01/2021 01:00,329,"Prince Albert Road, The Regent's Park",21-01-01 00:15,386,"Moor Street, Soho",51.51352755,-0.130110822,51.53589283,-0.160854428
+94,01/01/2021 00:51,173,"Waterloo Road, South Bank",21-01-01 00:15,343,"London Zoo Car Park, The Regent's Park",51.53692216,-0.150181444,51.50486,-0.113001
+93,01/01/2021 00:51,173,"Waterloo Road, South Bank",21-01-01 00:15,343,"London Zoo Car Park, The Regent's Park",51.53692216,-0.150181444,51.50486,-0.113001
+97,01/01/2021 00:25,138,"Green Street, Mayfair",21-01-01 00:15,99,"Old Quebec Street, Marylebone",51.51457763,-0.158264483,51.51227622,-0.157436972
+115,01/01/2021 00:51,354,"Northumberland Avenue, Strand",21-01-01 00:16,334,"Concert Hall Approach 1, South Bank",51.505044,-0.115851,51.506767,-0.123702
+114,01/01/2021 00:51,354,"Northumberland Avenue, Strand",21-01-01 00:16,334,"Concert Hall Approach 1, South Bank",51.505044,-0.115851,51.506767,-0.123702
+113,01/01/2021 00:21,91,"Walnut Tree Walk, Vauxhall",21-01-01 00:16,139,"Lambeth Road, Vauxhall",51.49488108,-0.117974901,51.49368637,-0.111014912
+112,01/01/2021 00:21,91,"Walnut Tree Walk, Vauxhall",21-01-01 00:16,139,"Lambeth Road, Vauxhall",51.49488108,-0.117974901,51.49368637,-0.111014912
+111,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:16,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+109,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:16,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+110,01/01/2021 00:19,64,"William IV Street, Strand",21-01-01 00:16,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50946212,-0.124749274
+107,01/01/2021 00:25,78,"Sadlers Sports Centre, Finsbury",21-01-01 00:16,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.52486887,-0.099489485
+106,01/01/2021 00:44,409,"Strata, Elephant & Castle",21-01-01 00:16,815,"Lambeth Palace Road, Waterloo",51.5000892,-0.116628701,51.493146,-0.099828
+105,01/01/2021 01:18,195,"Milroy Walk, South Bank",21-01-01 00:16,338,"Wellington Street , Strand",51.51175646,-0.119643424,51.50724437,-0.106237501
+104,01/01/2021 01:00,329,"Prince Albert Road, The Regent's Park",21-01-01 00:16,386,"Moor Street, Soho",51.51352755,-0.130110822,51.53589283,-0.160854428
+103,01/01/2021 00:38,626,"Normand Park, West Kensington",21-01-01 00:16,626,"Normand Park, West Kensington",51.48438657,-0.20481514,51.48438657,-0.20481514
+108,01/01/2021 00:43,762,"Storey's Gate, Westminster",21-01-01 00:16,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.50070305,-0.129698963
+124,01/01/2021 00:35,301,"Marylebone Lane, Marylebone",21-01-01 00:17,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.51475963,-0.148105415
+129,01/01/2021 00:21,769,"Sandilands Road, Walham Green",21-01-01 00:17,636,"South Park, Sands End",51.46706414,-0.193502076,51.473611,-0.191803
+128,01/01/2021 00:42,668,"Ravenscourt Park Station, Hammersmith",21-01-01 00:17,657,"Blythe Road West, Shepherd's Bush",51.49968,-0.221791551,51.49422354,-0.236769936
+127,01/01/2021 00:27,478,"Stepney Green Station, Stepney",21-01-01 00:17,115,"Braham Street, Aldgate",51.51423368,-0.073537654,51.521889,-0.04667
+126,01/01/2021 00:30,136,"Queen Victoria Street, St. Paul's",21-01-01 00:17,126,"Museum of London, Barbican",51.51782144,-0.096496865,51.51196176,-0.097441687
+125,01/01/2021 00:34,301,"Marylebone Lane, Marylebone",21-01-01 00:17,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.51475963,-0.148105415
+123,01/01/2021 00:45,762,"Storey's Gate, Westminster",21-01-01 00:17,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.50070305,-0.129698963
+116,01/01/2021 00:47,541,"Green Park Station, Mayfair",21-01-01 00:17,191,"Hyde Park Corner, Hyde Park",51.50311799,-0.153520935,51.506613,-0.142844
+121,01/01/2021 00:41,762,"Storey's Gate, Westminster",21-01-01 00:17,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.50070305,-0.129698963
+120,01/01/2021 00:40,762,"Storey's Gate, Westminster",21-01-01 00:17,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.50070305,-0.129698963
+119,01/01/2021 00:24,61,"Great Dover Street, The Borough",21-01-01 00:17,732,"Duke Street Hill, London Bridge",51.50630441,-0.087262995,51.49738251,-0.089446947
+118,01/01/2021 00:24,61,"Great Dover Street, The Borough",21-01-01 00:17,732,"Duke Street Hill, London Bridge",51.50630441,-0.087262995,51.49738251,-0.089446947
+117,01/01/2021 00:47,222,"Knightsbridge, Hyde Park",21-01-01 00:17,191,"Hyde Park Corner, Hyde Park",51.50311799,-0.153520935,51.50275704,-0.155349725
+122,01/01/2021 00:44,762,"Storey's Gate, Westminster",21-01-01 00:17,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.50070305,-0.129698963
+143,01/01/2021 02:57,226,"Charles II Street, West End",21-01-01 00:18,226,"Charles II Street, West End",51.50844614,-0.131961389,51.50844614,-0.131961389
+142,01/01/2021 00:35,302,"Putney Pier, Wandsworth",21-01-01 00:18,693,"Felsham Road, Putney",51.464786,-0.215618902,51.466907,-0.216573
+141,01/01/2021 00:35,302,"Putney Pier, Wandsworth",21-01-01 00:18,693,"Felsham Road, Putney",51.464786,-0.215618902,51.466907,-0.216573
+140,01/01/2021 00:33,614,"Bradmead, Battersea Park",21-01-01 00:18,614,"Bradmead, Battersea Park",51.54119,-0.058826101,51.54119,-0.058826101
+138,01/01/2021 01:01,172,"Sumner Place, South Kensington",21-01-01 00:18,374,"Waterloo Station 1, Waterloo",51.50402794,-0.11386436,51.49121192,-0.173715911
+137,01/01/2021 01:01,172,"Sumner Place, South Kensington",21-01-01 00:18,374,"Waterloo Station 1, Waterloo",51.50402794,-0.11386436,51.49121192,-0.173715911
+139,01/01/2021 01:39,153,"Bayswater Road, Hyde Park",21-01-01 00:18,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.511933,-0.174411
+135,01/01/2021 00:53,192,"Wardour Street, Soho",21-01-01 00:18,280,"Royal Avenue 2, Chelsea",51.490083,-0.162418,51.51251523,-0.133201961
+134,01/01/2021 02:18,71,"Newgate Street , St. Paul's",21-01-01 00:18,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.5154186,-0.098850915
+133,01/01/2021 00:46,29,"Hereford Road, Bayswater",21-01-01 00:18,424,"Ebury Bridge, Pimlico",51.490491,-0.149186,51.513735,-0.193487
+132,01/01/2021 00:26,508,"Fournier Street, Whitechapel",21-01-01 00:18,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.519362,-0.074431
+131,01/01/2021 00:45,784,"East Village, Queen Elizabeth Olympic Park",21-01-01 00:18,495,"Bow Church Station, Bow",51.528169,-0.018703,51.546326,-0.00993526
+130,01/01/2021 00:45,784,"East Village, Queen Elizabeth Olympic Park",21-01-01 00:18,495,"Bow Church Station, Bow",51.528169,-0.018703,51.546326,-0.00993526
+136,01/01/2021 00:43,154,"Waterloo Station 3, Waterloo",21-01-01 00:18,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+149,01/01/2021 01:40,153,"Bayswater Road, Hyde Park",21-01-01 00:19,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.511933,-0.174411
+148,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:19,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+147,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:19,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+145,01/01/2021 00:49,815,"Lambeth Palace Road, Waterloo",21-01-01 00:19,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+144,01/01/2021 00:28,221,"Horseferry Road, Westminster",21-01-01 00:19,583,"Abingdon Green, Westminster",51.49764,-0.12597218,51.49481649,-0.13045856
+146,01/01/2021 00:39,699,"Belford House, Haggerston",21-01-01 00:19,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.5366541,-0.07023031
+156,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:20,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+160,01/01/2021 00:50,733,"Park Lane, Mayfair",21-01-01 00:20,257,"Westminster University, Marylebone",51.52248185,-0.154907218,51.50542628,-0.150817316
+158,01/01/2021 00:44,818,"Westminster Pier, Westminster",21-01-01 00:20,432,"Exhibition Road Museums 1, South Kensington",51.496468,-0.17379696,51.501513,-0.12382322
+157,01/01/2021 00:43,154,"Waterloo Station 3, Waterloo",21-01-01 00:20,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+155,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:20,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+159,01/01/2021 00:44,818,"Westminster Pier, Westminster",21-01-01 00:20,432,"Exhibition Road Museums 1, South Kensington",51.496468,-0.17379696,51.501513,-0.12382322
+153,01/01/2021 00:23,287,"Bedford Way, Bloomsbury",21-01-01 00:20,11,"Brunswick Square, Bloomsbury",51.52395143,-0.122502346,51.52367314,-0.128377673
+152,01/01/2021 00:39,699,"Belford House, Haggerston",21-01-01 00:20,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.5366541,-0.07023031
+151,01/01/2021 00:47,815,"Lambeth Palace Road, Waterloo",21-01-01 00:20,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+154,01/01/2021 00:42,154,"Waterloo Station 3, Waterloo",21-01-01 00:20,64,"William IV Street, Strand",51.50946212,-0.124749274,51.50379168,-0.11282408
+150,01/01/2021 00:23,410,"Edgware Road Station, Marylebone",21-01-01 00:20,45,"Boston Place, Marylebone",51.522511,-0.162298,51.519968,-0.169774
+161,01/01/2021 01:32,64,"William IV Street, Strand",21-01-01 00:21,298,"Curlew Street, Shad Thames",51.50227992,-0.074189225,51.50946212,-0.124749274
+162,01/01/2021 00:48,815,"Lambeth Palace Road, Waterloo",21-01-01 00:21,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+163,01/01/2021 00:28,503,"Cleveland Way, Stepney",21-01-01 00:21,565,"Selby Street, Whitechapel",51.521905,-0.063386,51.520893,-0.051394
+173,01/01/2021 01:26,173,"Waterloo Road, South Bank",21-01-01 00:22,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.50486,-0.113001
+171,01/01/2021 00:40,426,"Vincent Street, Pimlico",21-01-01 00:22,680,"Westbridge Road, Battersea",51.47768469,-0.170329317,51.493072,-0.129925
+170,01/01/2021 00:45,213,"Wellington Arch, Hyde Park",21-01-01 00:22,818,"Westminster Pier, Westminster",51.501513,-0.12382322,51.50274025,-0.149569201
+169,01/01/2021 02:18,71,"Newgate Street , St. Paul's",21-01-01 00:22,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.5154186,-0.098850915
+172,01/01/2021 00:40,469,"Lindfield Street, Poplar",21-01-01 00:22,237,"Dock Street, Wapping",51.50978602,-0.068161981,51.513757,-0.020467
+167,01/01/2021 00:42,253,"Shoreditch Park, Hoxton",21-01-01 00:22,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.53404294,-0.086379717
+166,01/01/2021 00:42,253,"Shoreditch Park, Hoxton",21-01-01 00:22,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.53404294,-0.086379717
+165,01/01/2021 00:25,612,"Wandsworth Rd, Isley Court, Wandsworth Road",21-01-01 00:22,609,"Sugden Road, Clapham",51.46512358,-0.157788279,51.46925984,-0.141812513
+164,01/01/2021 01:32,64,"William IV Street, Strand",21-01-01 00:22,298,"Curlew Street, Shad Thames",51.50227992,-0.074189225,51.50946212,-0.124749274
+168,01/01/2021 00:42,253,"Shoreditch Park, Hoxton",21-01-01 00:22,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.53404294,-0.086379717
+183,01/01/2021 00:55,85,"Tanner Street, Bermondsey",21-01-01 00:23,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+182,01/01/2021 01:03,50,"East Road, Hoxton",21-01-01 00:23,276,"Lower Thames Street, Monument",51.50930161,-0.084985356,51.52867339,-0.087459376
+181,01/01/2021 00:40,469,"Lindfield Street, Poplar",21-01-01 00:23,237,"Dock Street, Wapping",51.50978602,-0.068161981,51.513757,-0.020467
+180,01/01/2021 00:40,469,"Lindfield Street, Poplar",21-01-01 00:23,237,"Dock Street, Wapping",51.50978602,-0.068161981,51.513757,-0.020467
+179,01/01/2021 02:18,71,"Newgate Street , St. Paul's",21-01-01 00:23,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.5154186,-0.098850915
+178,01/01/2021 02:29,125,"Borough High Street, The Borough",21-01-01 00:23,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.50069491,-0.094524319
+176,01/01/2021 00:47,815,"Lambeth Palace Road, Waterloo",21-01-01 00:23,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+175,01/01/2021 00:31,641,"Archbishop's Park, Waterloo",21-01-01 00:23,641,"Archbishop's Park, Waterloo",51.49824168,-0.117495865,51.49824168,-0.117495865
+174,01/01/2021 01:06,707,"Barons Court Station, West Kensington",21-01-01 00:23,821,"Battersea Power Station, Battersea Park",51.48350749,-0.147714557,51.49021762,-0.215087092
+177,01/01/2021 00:47,815,"Lambeth Palace Road, Waterloo",21-01-01 00:23,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+190,01/01/2021 00:43,309,"Embankment (Savoy), Strand",21-01-01 00:24,309,"Embankment (Savoy), Strand",51.50963123,-0.119047563,51.50963123,-0.119047563
+194,01/01/2021 02:57,226,"Charles II Street, West End",21-01-01 00:24,226,"Charles II Street, West End",51.50844614,-0.131961389,51.50844614,-0.131961389
+192,01/01/2021 02:57,226,"Charles II Street, West End",21-01-01 00:24,226,"Charles II Street, West End",51.50844614,-0.131961389,51.50844614,-0.131961389
+191,01/01/2021 02:57,226,"Charles II Street, West End",21-01-01 00:24,226,"Charles II Street, West End",51.50844614,-0.131961389,51.50844614,-0.131961389
+189,01/01/2021 00:49,475,"Lightermans Road, Millwall",21-01-01 00:24,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.499041,-0.020157
+193,01/01/2021 02:57,226,"Charles II Street, West End",21-01-01 00:24,226,"Charles II Street, West End",51.50844614,-0.131961389,51.50844614,-0.131961389
+187,01/01/2021 01:00,515,"Russell Gardens, Olympia",21-01-01 00:24,515,"Russell Gardens, Olympia",51.500088,-0.211316,51.500088,-0.211316
+186,01/01/2021 00:52,841,"Tower Wharf, Bermondsey",21-01-01 00:24,9,"New Globe Walk, Bankside",51.5073853,-0.096440751,51.500845,-0.074704305
+185,01/01/2021 01:32,64,"William IV Street, Strand",21-01-01 00:24,298,"Curlew Street, Shad Thames",51.50227992,-0.074189225,51.50946212,-0.124749274
+184,01/01/2021 01:32,64,"William IV Street, Strand",21-01-01 00:24,298,"Curlew Street, Shad Thames",51.50227992,-0.074189225,51.50946212,-0.124749274
+188,01/01/2021 00:47,815,"Lambeth Palace Road, Waterloo",21-01-01 00:24,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+207,01/01/2021 00:51,245,"Grosvenor Road, Pimlico",21-01-01 00:25,231,"Queen's Gate (Central), South Kensington",51.49396755,-0.17873226,51.4853572,-0.142207481
+206,01/01/2021 00:49,733,"Park Lane, Mayfair",21-01-01 00:25,257,"Westminster University, Marylebone",51.52248185,-0.154907218,51.50542628,-0.150817316
+205,01/01/2021 01:26,410,"Edgware Road Station, Marylebone",21-01-01 00:25,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.519968,-0.169774
+204,01/01/2021 00:54,85,"Tanner Street, Bermondsey",21-01-01 00:25,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+203,01/01/2021 00:54,85,"Tanner Street, Bermondsey",21-01-01 00:25,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+202,01/01/2021 00:55,85,"Tanner Street, Bermondsey",21-01-01 00:25,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+200,01/01/2021 00:45,300,"Serpentine Car Park, Hyde Park",21-01-01 00:25,392,"Imperial College, Knightsbridge",51.49942855,-0.179702476,51.505014,-0.17306032
+199,01/01/2021 00:47,815,"Lambeth Palace Road, Waterloo",21-01-01 00:25,541,"Green Park Station, Mayfair",51.506613,-0.142844,51.5000892,-0.116628701
+198,01/01/2021 00:55,669,"Teversham Lane, Stockwell",21-01-01 00:25,826,"Allington Street, Victoria",51.496863,-0.1429434,51.47614939,-0.1232585
+197,01/01/2021 00:55,669,"Teversham Lane, Stockwell",21-01-01 00:25,826,"Allington Street, Victoria",51.496863,-0.1429434,51.47614939,-0.1232585
+196,01/01/2021 00:55,669,"Teversham Lane, Stockwell",21-01-01 00:25,826,"Allington Street, Victoria",51.496863,-0.1429434,51.47614939,-0.1232585
+195,01/01/2021 00:55,669,"Teversham Lane, Stockwell",21-01-01 00:25,826,"Allington Street, Victoria",51.496863,-0.1429434,51.47614939,-0.1232585
+201,01/01/2021 00:31,4,"St. Chad's Street, King's Cross",21-01-01 00:25,797,"Ossulston Street, Somers Town",51.5293,-0.12827903,51.53005939,-0.120973687
+215,01/01/2021 00:51,245,"Grosvenor Road, Pimlico",21-01-01 00:26,231,"Queen's Gate (Central), South Kensington",51.49396755,-0.17873226,51.4853572,-0.142207481
+214,01/01/2021 01:26,410,"Edgware Road Station, Marylebone",21-01-01 00:26,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.519968,-0.169774
+213,01/01/2021 01:26,410,"Edgware Road Station, Marylebone",21-01-01 00:26,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.519968,-0.169774
+212,01/01/2021 00:30,54,"Golden Lane, Barbican",21-01-01 00:26,32,"Leonard Circus , Shoreditch",51.52469624,-0.084439283,51.52174785,-0.094475072
+210,01/01/2021 00:44,33,"Central House, Aldgate",21-01-01 00:26,52,"Roscoe Street, St. Luke's",51.52295439,-0.094934859,51.515231,-0.07015
+209,01/01/2021 00:48,572,"Greenland Road, Camden Town",21-01-01 00:26,239,"Warren Street Station, Euston",51.52443845,-0.138019439,51.539099,-0.141728
+208,01/01/2021 00:53,674,"Carnegie Street, King's Cross",21-01-01 00:26,109,"Soho Square , Soho",51.51563144,-0.132328837,51.53546778,-0.11619105
+211,01/01/2021 00:46,300,"Serpentine Car Park, Hyde Park",21-01-01 00:26,392,"Imperial College, Knightsbridge",51.49942855,-0.179702476,51.505014,-0.17306032
+226,01/01/2021 00:46,173,"Waterloo Road, South Bank",21-01-01 00:27,264,"Tysoe Street, Clerkenwell",51.52644342,-0.109256828,51.50486,-0.113001
+225,01/01/2021 00:34,450,"Jubilee Street, Stepney",21-01-01 00:27,550,"Harford Street, Mile End",51.521564,-0.039264,51.515975,-0.053177
+224,01/01/2021 00:46,153,"Bayswater Road, Hyde Park",21-01-01 00:27,329,"Prince Albert Road, The Regent's Park",51.53589283,-0.160854428,51.511933,-0.174411
+223,01/01/2021 00:54,85,"Tanner Street, Bermondsey",21-01-01 00:27,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+221,01/01/2021 00:30,446,"York Hall, Bethnal Green",21-01-01 00:27,501,"Cephas Street, Bethnal Green",51.522561,-0.054883,51.528936,-0.055894
+222,01/01/2021 00:31,445,"Cheshire Street, Bethnal Green",21-01-01 00:27,501,"Cephas Street, Bethnal Green",51.522561,-0.054883,51.52388,-0.065076
+219,01/01/2021 01:58,452,"St. Katharine's Way, Tower",21-01-01 00:27,452,"St. Katharine's Way, Tower",51.505697,-0.070542,51.505697,-0.070542
+218,01/01/2021 01:58,452,"St. Katharine's Way, Tower",21-01-01 00:27,452,"St. Katharine's Way, Tower",51.505697,-0.070542,51.505697,-0.070542
+217,01/01/2021 00:52,674,"Carnegie Street, King's Cross",21-01-01 00:27,109,"Soho Square , Soho",51.51563144,-0.132328837,51.53546778,-0.11619105
+216,01/01/2021 01:04,50,"East Road, Hoxton",21-01-01 00:27,587,"Monument Street, Monument",51.50964,-0.08497,51.52867339,-0.087459376
+220,01/01/2021 00:38,239,"Warren Street Station, Euston",21-01-01 00:27,535,"Gloucester Avenue, Camden Town",51.537349,-0.147154,51.52443845,-0.138019439
+233,01/01/2021 00:54,85,"Tanner Street, Bermondsey",21-01-01 00:28,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+236,01/01/2021 00:57,338,"Wellington Street , Strand",21-01-01 00:28,604,"St Martins Close, Camden Town",51.538792,-0.138535,51.51175646,-0.119643424
+235,01/01/2021 02:57,226,"Charles II Street, West End",21-01-01 00:28,226,"Charles II Street, West End",51.50844614,-0.131961389,51.50844614,-0.131961389
+234,01/01/2021 00:46,153,"Bayswater Road, Hyde Park",21-01-01 00:28,329,"Prince Albert Road, The Regent's Park",51.53589283,-0.160854428,51.511933,-0.174411
+232,01/01/2021 00:54,85,"Tanner Street, Bermondsey",21-01-01 00:28,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+237,01/01/2021 00:57,338,"Wellington Street , Strand",21-01-01 00:28,604,"St Martins Close, Camden Town",51.538792,-0.138535,51.51175646,-0.119643424
+230,01/01/2021 00:29,478,"Stepney Green Station, Stepney",21-01-01 00:28,478,"Stepney Green Station, Stepney",51.521889,-0.04667,51.521889,-0.04667
+229,01/01/2021 01:06,392,"Imperial College, Knightsbridge",21-01-01 00:28,75,"Torrens Street, Angel",51.53219984,-0.105480698,51.49942855,-0.179702476
+228,01/01/2021 00:37,587,"Monument Street, Monument",21-01-01 00:28,842,"Temple Gardens, Temple",51.510981,-0.10832249,51.50964,-0.08497
+227,01/01/2021 00:37,587,"Monument Street, Monument",21-01-01 00:28,842,"Temple Gardens, Temple",51.510981,-0.10832249,51.50964,-0.08497
+231,01/01/2021 00:38,239,"Warren Street Station, Euston",21-01-01 00:28,535,"Gloucester Avenue, Camden Town",51.537349,-0.147154,51.52443845,-0.138019439
+238,01/01/2021 03:27,228,"St. James's Square, St. James's",21-01-01 00:29,195,"Milroy Walk, South Bank",51.50724437,-0.106237501,51.50742485,-0.134621209
+239,01/01/2021 00:51,343,"London Zoo Car Park, The Regent's Park",21-01-01 00:29,98,"Hampstead Road, Euston",51.52554222,-0.138231303,51.53692216,-0.150181444
+240,01/01/2021 00:50,343,"London Zoo Car Park, The Regent's Park",21-01-01 00:29,98,"Hampstead Road, Euston",51.52554222,-0.138231303,51.53692216,-0.150181444
+241,01/01/2021 00:36,273,"Belvedere Road 1, South Bank",21-01-01 00:29,839,"Sea Containers, South Bank",51.508033,-0.10682363,51.50613324,-0.114686385
+242,01/01/2021 00:36,273,"Belvedere Road 1, South Bank",21-01-01 00:29,839,"Sea Containers, South Bank",51.508033,-0.10682363,51.50613324,-0.114686385
+243,01/01/2021 00:54,85,"Tanner Street, Bermondsey",21-01-01 00:29,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50064702,-0.078600401
+244,01/01/2021 00:48,33,"Central House, Aldgate",21-01-01 00:29,256,"Houghton Street, Strand",51.51362054,-0.116764211,51.515231,-0.07015
+252,01/01/2021 01:07,309,"Embankment (Savoy), Strand",21-01-01 00:30,819,"Belvedere Road 2, South Bank",51.50621,-0.114842,51.50963123,-0.119047563
+251,01/01/2021 00:38,22,"Northington Street , Holborn",21-01-01 00:30,431,"Crinan Street, King's Cross",51.534474,-0.122203,51.5222641,-0.114079481
+250,01/01/2021 00:42,602,"Union Grove, Wandsworth Road",21-01-01 00:30,100,"Albert Embankment, Vauxhall",51.49043573,-0.122806861,51.472993,-0.133972
+249,01/01/2021 00:42,602,"Union Grove, Wandsworth Road",21-01-01 00:30,100,"Albert Embankment, Vauxhall",51.49043573,-0.122806861,51.472993,-0.133972
+253,01/01/2021 01:07,309,"Embankment (Savoy), Strand",21-01-01 00:30,819,"Belvedere Road 2, South Bank",51.50621,-0.114842,51.50963123,-0.119047563
+247,01/01/2021 00:37,273,"Belvedere Road 1, South Bank",21-01-01 00:30,839,"Sea Containers, South Bank",51.508033,-0.10682363,51.50613324,-0.114686385
+246,01/01/2021 00:39,484,"Bromley High Street, Bow",21-01-01 00:30,478,"Stepney Green Station, Stepney",51.521889,-0.04667,51.528828,-0.013258
+245,01/01/2021 01:00,210,"Hinde Street, Marylebone",21-01-01 00:30,219,"Bramham Gardens, Earl's Court",51.49016361,-0.19039362,51.51681444,-0.151926305
+248,01/01/2021 01:44,184,"Portland Place, Marylebone",21-01-01 00:30,43,"Crawford Street, Marylebone",51.52026,-0.157183945,51.52071513,-0.14521173
+254,01/01/2021 00:45,321,"Bermondsey Street, Bermondsey",21-01-01 00:31,127,"Wood Street, Guildhall",51.51700801,-0.09388536,51.49785559,-0.081608045
+255,01/01/2021 03:26,228,"St. James's Square, St. James's",21-01-01 00:31,195,"Milroy Walk, South Bank",51.50724437,-0.106237501,51.50742485,-0.134621209
+256,01/01/2021 00:38,724,"Alma Road, Wandsworth",21-01-01 00:31,688,"Northfields, Wandsworth",51.46095151,-0.20066766,51.45799126,-0.184806157
+257,01/01/2021 00:46,288,"Elizabeth Bridge, Victoria",21-01-01 00:31,338,"Wellington Street , Strand",51.51175646,-0.119643424,51.49236962,-0.147478734
+258,01/01/2021 00:54,725,"Walworth Square, Walworth",21-01-01 00:31,39,"Shoreditch High Street, Shoreditch",51.5263778,-0.078130921,51.491327,-0.096518684
+259,01/01/2021 00:45,766,"Ram Street, Wandsworth",21-01-01 00:31,640,"Silverthorne Road, Battersea",51.47286577,-0.148059277,51.45752945,-0.192165613
+270,01/01/2021 00:56,134,"Wapping High Street, Wapping",21-01-01 00:32,281,"Smith Square, Westminster",51.49580589,-0.127575233,51.504904,-0.06797
+269,01/01/2021 00:59,499,"Furze Green, Bow",21-01-01 00:32,499,"Furze Green, Bow",51.519265,-0.021345,51.519265,-0.021345
+268,01/01/2021 01:00,499,"Furze Green, Bow",21-01-01 00:32,499,"Furze Green, Bow",51.519265,-0.021345,51.519265,-0.021345
+267,01/01/2021 00:52,351,"Macclesfield Rd, St Lukes",21-01-01 00:32,466,"Whiston Road, Haggerston",51.534464,-0.076341,51.529423,-0.097122
+266,01/01/2021 00:52,351,"Macclesfield Rd, St Lukes",21-01-01 00:32,466,"Whiston Road, Haggerston",51.534464,-0.076341,51.529423,-0.097122
+261,01/01/2021 01:08,255,"Clifton Road, Maida Vale",21-01-01 00:32,173,"Waterloo Road, South Bank",51.50486,-0.113001,51.52557531,-0.179592915
+264,01/01/2021 00:51,351,"Macclesfield Rd, St Lukes",21-01-01 00:32,403,"George Place Mews, Marylebone",51.51689296,-0.158249929,51.529423,-0.097122
+263,01/01/2021 01:24,102,"Jewry Street, Aldgate",21-01-01 00:32,263,"St. Mary Axe, Aldgate",51.51422502,-0.080660083,51.51340693,-0.076793375
+262,01/01/2021 00:41,288,"Elizabeth Bridge, Victoria",21-01-01 00:32,216,"Old Brompton Road, South Kensington",51.49094565,-0.181190899,51.49236962,-0.147478734
+260,01/01/2021 01:13,185,"Alderney Street, Pimlico",21-01-01 00:32,185,"Alderney Street, Pimlico",51.48805753,-0.140741432,51.48805753,-0.140741432
+265,01/01/2021 00:45,763,"Mile End Park Leisure Centre, Mile End",21-01-01 00:32,483,"Albert Gardens, Stepney",51.51328,-0.047784,51.52059714,-0.032566533
+275,01/01/2021 00:46,763,"Mile End Park Leisure Centre, Mile End",21-01-01 00:33,483,"Albert Gardens, Stepney",51.51328,-0.047784,51.52059714,-0.032566533
+277,01/01/2021 00:56,134,"Wapping High Street, Wapping",21-01-01 00:33,281,"Smith Square, Westminster",51.49580589,-0.127575233,51.504904,-0.06797
+274,01/01/2021 00:45,470,"Mostyn Grove, Bow",21-01-01 00:33,783,"Monier Road, Hackney Wick",51.5403115,-0.021630359,51.530535,-0.025492
+276,01/01/2021 00:58,334,"Concert Hall Approach 1, South Bank",21-01-01 00:33,659,"Blackfriars Station, St. Paul's",51.511934,-0.10307894,51.505044,-0.115851
+272,01/01/2021 00:40,486,"Granby Street, Shoreditch",21-01-01 00:33,500,"Ansell House, Stepney",51.520019,-0.05438,51.525645,-0.069543
+271,01/01/2021 00:40,486,"Granby Street, Shoreditch",21-01-01 00:33,500,"Ansell House, Stepney",51.520019,-0.05438,51.525645,-0.069543
+273,01/01/2021 00:45,470,"Mostyn Grove, Bow",21-01-01 00:33,783,"Monier Road, Hackney Wick",51.5403115,-0.021630359,51.530535,-0.025492
+278,01/01/2021 00:46,651,"Thorndike Close, West Chelsea",21-01-01 00:34,185,"Alderney Street, Pimlico",51.48805753,-0.140741432,51.48089844,-0.183853573
+279,01/01/2021 01:27,183,"Riverlight North, Nine Elms",21-01-01 00:34,183,"Riverlight North, Nine Elms",51.482362,-0.13612398,51.482362,-0.13612398
+280,01/01/2021 01:26,183,"Riverlight North, Nine Elms",21-01-01 00:34,183,"Riverlight North, Nine Elms",51.482362,-0.13612398,51.482362,-0.13612398
+281,01/01/2021 00:39,338,"Wellington Street , Strand",21-01-01 00:34,338,"Wellington Street , Strand",51.51175646,-0.119643424,51.51175646,-0.119643424
+282,01/01/2021 01:01,225,"Notting Hill Gate Station, Notting Hill",21-01-01 00:34,815,"Lambeth Palace Road, Waterloo",51.5000892,-0.116628701,51.50935342,-0.196422
+283,01/01/2021 00:41,126,"Museum of London, Barbican",21-01-01 00:34,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.51782144,-0.096496865
+284,01/01/2021 00:43,678,"Esmond Street, Putney",21-01-01 00:34,681,"Bishop's Avenue, Fulham",51.47303687,-0.214749808,51.46231278,-0.211468596
+295,01/01/2021 01:00,63,"Murray Grove , Hoxton",21-01-01 00:35,63,"Murray Grove , Hoxton",51.53089041,-0.089782579,51.53089041,-0.089782579
+294,01/01/2021 01:19,230,"Poured Lines, Bankside",21-01-01 00:35,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.50669284,-0.103137426
+293,01/01/2021 01:35,552,"Watney Street, Shadwell",21-01-01 00:35,586,"Mudchute DLR, Cubitt Town",51.490645,-0.014582,51.511542,-0.056667
+292,01/01/2021 01:35,552,"Watney Street, Shadwell",21-01-01 00:35,586,"Mudchute DLR, Cubitt Town",51.490645,-0.014582,51.511542,-0.056667
+291,01/01/2021 01:35,552,"Watney Street, Shadwell",21-01-01 00:35,586,"Mudchute DLR, Cubitt Town",51.490645,-0.014582,51.511542,-0.056667
+290,01/01/2021 01:26,392,"Imperial College, Knightsbridge",21-01-01 00:35,392,"Imperial College, Knightsbridge",51.49942855,-0.179702476,51.49942855,-0.179702476
+289,01/01/2021 01:21,258,"Kensington Gore, Knightsbridge",21-01-01 00:35,392,"Imperial College, Knightsbridge",51.49942855,-0.179702476,51.50143293,-0.178656971
+288,01/01/2021 00:41,126,"Museum of London, Barbican",21-01-01 00:35,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.51782144,-0.096496865
+287,01/01/2021 00:53,647,"Richmond Way, Shepherd's Bush",21-01-01 00:35,105,"Westbourne Grove, Bayswater",51.51552971,-0.190240716,51.50035306,-0.217515071
+286,01/01/2021 00:52,647,"Richmond Way, Shepherd's Bush",21-01-01 00:35,105,"Westbourne Grove, Bayswater",51.51552971,-0.190240716,51.50035306,-0.217515071
+285,01/01/2021 01:05,541,"Green Park Station, Mayfair",21-01-01 00:35,116,"Little Argyll Street, West End",51.51449962,-0.141423695,51.506613,-0.142844
+314,01/01/2021 00:38,819,"Belvedere Road 2, South Bank",21-01-01 00:36,273,"Belvedere Road 1, South Bank",51.50613324,-0.114686385,51.50621,-0.114842
+315,01/01/2021 00:55,810,"Tate Modern, Bankside",21-01-01 00:36,273,"Belvedere Road 1, South Bank",51.50613324,-0.114686385,51.50672529,-0.098807246
+313,01/01/2021 01:18,230,"Poured Lines, Bankside",21-01-01 00:36,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.50669284,-0.103137426
+312,01/01/2021 01:18,230,"Poured Lines, Bankside",21-01-01 00:36,354,"Northumberland Avenue, Strand",51.506767,-0.123702,51.50669284,-0.103137426
+311,01/01/2021 00:47,558,"Page Street, Westminster",21-01-01 00:36,160,"Waterloo Place, St. James's",51.50663341,-0.131773845,51.493978,-0.127554
+310,01/01/2021 00:47,558,"Page Street, Westminster",21-01-01 00:36,160,"Waterloo Place, St. James's",51.50663341,-0.131773845,51.493978,-0.127554
+309,01/01/2021 01:03,382,"Farm Street, Mayfair",21-01-01 00:36,138,"Green Street, Mayfair",51.51227622,-0.157436972,51.50935171,-0.14744969
+308,01/01/2021 01:03,382,"Farm Street, Mayfair",21-01-01 00:36,138,"Green Street, Mayfair",51.51227622,-0.157436972,51.50935171,-0.14744969
+307,01/01/2021 01:00,226,"Charles II Street, West End",21-01-01 00:36,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50844614,-0.131961389
+306,01/01/2021 01:00,226,"Charles II Street, West End",21-01-01 00:36,301,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,51.50844614,-0.131961389
+297,01/01/2021 00:56,831,"St John's Crescent, Brixton",21-01-01 00:36,196,"Union Street, The Borough",51.50368837,-0.098497684,51.466232,-0.11317995
+304,01/01/2021 00:54,811,"Westferry Circus, Canary Wharf",21-01-01 00:36,811,"Westferry Circus, Canary Wharf",51.50570304,-0.027772743,51.50570304,-0.027772743
+303,01/01/2021 00:54,811,"Westferry Circus, Canary Wharf",21-01-01 00:36,811,"Westferry Circus, Canary Wharf",51.50570304,-0.027772743,51.50570304,-0.027772743
+302,01/01/2021 01:25,101,"Queen Street 1, Bank",21-01-01 00:36,130,"Tower Gardens , Tower",51.50950627,-0.075459482,51.51155322,-0.0929401
+301,01/01/2021 12:35,126,"Museum of London, Barbican",21-01-01 00:36,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.51782144,-0.096496865
+300,01/01/2021 00:41,126,"Museum of London, Barbican",21-01-01 00:36,136,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,51.51782144,-0.096496865
+299,01/01/2021 00:47,762,"Storey's Gate, Westminster",21-01-01 00:36,146,"Vauxhall Bridge , Pimlico",51.48836528,-0.129361842,51.50070305,-0.129698963
+298,01/01/2021 02:33,115,"Braham Street, Aldgate",21-01-01 00:36,173,"Waterloo Road, South Bank",51.50486,-0.113001,51.51423368,-0.073537654
+296,01/01/2021 00:44,22,"Northington Street , Holborn",21-01-01 00:36,71,"Newgate Street , St. Paul's",51.5154186,-0.098850915,51.5222641,-0.114079481
+305,01/01/2021 01:02,114,"Park Road (Baker Street), The Regent's Park",21-01-01 00:36,271,"London Zoo,  The Regent's Park",51.53583617,-0.156285395,51.52451738,-0.158963647
+318,01/01/2021 01:02,600,"South Lambeth Road, Vauxhall",21-01-01 00:37,600,"South Lambeth Road, Vauxhall",51.481747,-0.124642,51.481747,-0.124642
+316,01/01/2021 00:44,22,"Northington Street , Holborn",21-01-01 00:37,71,"Newgate Street , St. Paul's",51.5154186,-0.098850915,51.5222641,-0.114079481
+317,01/01/2021 01:03,600,"South Lambeth Road, Vauxhall",21-01-01 00:37,600,"South Lambeth Road, Vauxhall",51.481747,-0.124642,51.481747,-0.124642
+319,01/01/2021 00:40,338,"Wellington Street , Strand",21-01-01 00:37,338,"Wellington Street , Strand",51.51175646,-0.119643424,51.51175646,-0.119643424
